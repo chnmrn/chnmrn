@@ -1,6 +1,10 @@
 # 💫 About Me:
-💻 Junior Programmer | Full-Stack Web Development Enthusiast<br><br>I’m passionate about building practical and creative web applications.<br>Currently, I’m learning new technologies and improving my skills to create useful projects and bring new ideas to life.<br><br>🛠️ Technologies & Tools<br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js, Express, .NET, SQL<br>Other: Git/GitHub, REST APIs<br>Programming Languages: C#, Java, Python, PHP<br><br>🎓 Currently Learning<br>Modern full-stack development best practices<br>Preparing for certifications: MS-900 and AZ-900<br>Trying to get into job opportunities and freelancer<br><br>🤝 Contact<br>💼 [LinkedIn](www.linkedin.com/in/juan-diego-sanchez-gamboa-6a6492343)  
-
+💻 Junior Programmer | Full-Stack Web Development Enthusiast<br><br>I’m passionate about building practical and creative web applications.<br>Currently, I’m learning new technologies and improving my skills to create useful projects and bring new ideas to life.<br>
+<br>
+# 🎓 Currently Learning
+<br>
+Modern full-stack development best practices.<br>Preparing for certifications: MS-900 and AZ-900.<br>Trying to get into job opportunities and freelancer.<br>
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-diego-sanchez-gamboa-6a6492343/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3B7iEme%2BO%2BRfOq3XMBfCxLJQ%3D%3D) 
