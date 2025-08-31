@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello there, I'm Chnmrn
 
-<!--
-**chnmrn/chnmrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Junior Programmer | Full-Stack Web Development Enthusiast**
 
-Here are some ideas to get you started:
+I’m passionate about building practical and creative web applications.  
+Currently, I’m learning new technologies and improving my skills to create useful projects and bring new ideas to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express, .NET, SQL  
+- **Other:** Git/GitHub, REST APIs
+- **Programming Languages:** C#, Java, Python, PHP
+
+---
+
+## 🎓 Currently Learning
+- Modern full-stack development best practices  
+- Preparing for certifications: MS-900 and AZ-900
+- Trying to get into job opportunities and freelancer
+
+---
+
+## 🤝 Contact 
+- 💼 [LinkedIn](www.linkedin.com/in/juan-diego-sanchez-gamboa-6a6492343)  
