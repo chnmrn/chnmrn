@@ -3,7 +3,9 @@
 <br>
 # 🎓 Currently Learning
 <br>
-Modern full-stack development best practices.<br>Preparing for certifications: MS-900 and AZ-900.<br>Trying to get into job opportunities and freelancer.<br>
+Pursuing Barchelors Degree in Software Engineering.
+<br>Certifications: Microsoft 365 Fundamentals, Scrum Fundamentals.
+<br>Trying to get into job opportunities and freelancer.<br>
 <br>
 
 ## 🌐 Socials:
