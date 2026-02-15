@@ -8,8 +8,8 @@ Focused on backend development, REST APIs, and building scalable web application
 ### 🚀 About Me
 
 - Junior developer with hands-on experience building **end-to-end full-stack projects**
-- Strong focus on **ASP.NET Core, C#, REST APIs, and SQL databases**
-- Interested in **backend development**, business logic, and clean architecture
+- Strong focus on **ASP.NET Core, C#, REST APIs, React and SQL databases**
+- Learning everyday the best full stack pratices to improve as a web developer
 - Currently pursuing a **B.S. in Computer Systems Engineering** (Expected 2026)
 
 ---
@@ -17,6 +17,7 @@ Focused on backend development, REST APIs, and building scalable web application
 ### 📫 Let’s Connect
 
 - 💼 LinkedIn: www.linkedin.com/in/jdsang
-- 📂 GitHub: https://github.com/chnmrn  
+- 📂 GitHub: https://github.com/chnmrn
+- 🧠 Portfolio: https://portfolio-react-flame-chi.vercel.app/
 
-> I’m currently seeking **junior or internship opportunities** in backend or full-stack development.
+> I’m currently seeking **junior or internship opportunities** as a developer.
