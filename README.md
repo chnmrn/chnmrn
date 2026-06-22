@@ -1,23 +1,24 @@
-## 👋 Hi, I'm Juan
+##  *Hi, I'm Juan*
 
-Junior / Intern **.NET & Full Stack Developer**  
+Junior **.NET Developer**  
 Focused on backend development, REST APIs, and building scalable web applications.
 
 ---
 
-### 🚀 About Me
+### *About Me*
 
 - Junior developer with hands-on experience building **end-to-end full-stack projects**
+- Starting my career currently working at **FactorK-Software**
 - Strong focus on **ASP.NET Core, C#, REST APIs, React and SQL databases**
 - Learning everyday the best full stack pratices to improve as a web developer
-- Currently pursuing a **B.S. in Computer Systems Engineering** (Expected 2026)
+- Waiting for my **B.S. in Computer Systems Engineering** (October 2026)
 
 ---
 
-### 📫 Let’s Connect
+### *Let’s Connect*
 
-- 💼 LinkedIn: www.linkedin.com/in/jdsang
-- 📂 GitHub: https://github.com/chnmrn
-- 🧠 Portfolio: https://portfolio-react-flame-chi.vercel.app/
+- **LinkedIn:** www.linkedin.com/in/jdsang
+- **GitHub:** https://github.com/chnmrn
+- **Portfolio:** https://portfolio-react-flame-chi.vercel.app/
 
-> I’m currently seeking **junior or internship opportunities** as a developer.
+> I’m currently open to work for small projects in my free time.
